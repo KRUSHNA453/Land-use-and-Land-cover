@@ -37,5 +37,6 @@ sea/lake. It is composed of RGB images, with three bands, making it suitable for
 classification tasks
 
 Architecture:
-![Data set](https://github.com/user-attachments/assets/8a60009d-7b63-4a06-977c-f272b932c729)
+![Architecture](https://github.com/user-attachments/assets/03290630-bc11-4221-b9f4-dd92076ad1f8)
+
 
